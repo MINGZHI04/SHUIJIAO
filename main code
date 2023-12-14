@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout << "Time to sleepvzzzs" << endl;
+    return 0;
+}
